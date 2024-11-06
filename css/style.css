@@ -9,3 +9,7 @@
     height: 100%;
     font-size: 20px;
 }
+.image{
+    background-image: url("/home/enzo/clonageBNF/image/fondBNF.png");
+}
+
