@@ -11,5 +11,15 @@
 }
 .image{
     background-image: url("/home/enzo/clonageBNF/image/fondBNF.png");
-}
+    background-size: cover;
+    z-index: -1
 
+}
+.fond{
+    background-image: url("/home/enzo/clonageBNF/image/fondBNF.png");
+    filter: (50px);
+    background-repeat: repeat;
+}
+.zindex{
+    z-index: 2;
+}
